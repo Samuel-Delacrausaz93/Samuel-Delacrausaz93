@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning  Flutter and C#
 - 💞️ I’m looking to collaborate with Awesome People on Projects.
 - 📫 How to reach me: write me an Pm and i will answer as fast as possible.
-- ⚡ Fun fact: If you cant imagine it then you cant build it!
+- ⚡ Fun fact: If you can't imagine it then you can't build it!
 
 <!---
 Samuel-Delacrausaz93/Samuel-Delacrausaz93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
